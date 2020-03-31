@@ -7,3 +7,4 @@ This repository is created for maintaining Data Science Capstone 1 Project Artif
 4. Added the Capstone 1 Project Proposal document in PDF Format - Capstone1ProjectProposal.pdf
 5. Added the Data Wrangling - Unit - 5.2 JSON Based exercise solution & it's data source files - 1st Mini Project
 6. Added the Data Wrangling - Unit - 5.3 SQL Practice exercise solution - 2nd Mini Project
+7. Adding the Data Wrangling - Unit - 5.4 - API Mini Project jupyter notebook file with all 7 solutions.
