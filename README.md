@@ -9,3 +9,5 @@ This repository is created for maintaining Data Science Capstone 1 Project Artif
 6. Added the Data Wrangling - Unit - 5.3 SQL Practice exercise solution - 2nd Mini Project
 7. Adding the Data Wrangling - Unit - 5.4 - API Mini Project jupyter notebook file with all 7 solutions.
 8. Adding the Inferential Statistics - Unit - 8.1 - Frequentist Inference Mini Projects.
+9. Adding the Bootstrap Statistics - Unit - 8.2 - Bootstrap Inference Mini Projects.
+
